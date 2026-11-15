@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Claim lifecycle diagram",
+    "path": "data/images/claim_lifecycle.svg",
+    "caption": "Diagram showing claim intake, triage, assessment, pending approval, approved or rejected, and closure.",
+    "alt_text": "Claim process lifecycle flow diagram",
+    "tags": [
+      "claim",
+      "claims",
+      "intake",
+      "workflow",
+      "lifecycle",
+      "assessment",
+      "approval",
+      "process",
+      "diagram"
+    ]
+  },
+  {
+    "title": "Approval workflow diagram",
+    "path": "data/images/approval_workflow.svg",
+    "caption": "Diagram showing claim assessment, approval request, manager review, decision recording and notification.",
+    "alt_text": "Approval workflow with manager and senior approver stages",
+    "tags": [
+      "approval",
+      "workflow",
+      "manager",
+      "senior approver",
+      "claim",
+      "process",
+      "diagram"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<rect width="900" height="260" fill="#f8fafc"/>
+<g font-family="Arial" font-size="16" text-anchor="middle" fill="#0f172a" stroke="#7c3aed">
+<g fill="#ede9fe"><rect x="30" y="95" width="150" height="65" rx="10"/><rect x="250" y="95" width="150" height="65" rx="10"/><rect x="470" y="95" width="150" height="65" rx="10"/><rect x="690" y="95" width="170" height="65" rx="10"/></g>
+<g stroke="none"><text x="105" y="133">Assessment</text><text x="325" y="133">Approval Request</text><text x="545" y="133">Manager Review</text><text x="775" y="133">Record Decision</text></g>
+<g stroke="#64748b" stroke-width="2" fill="none"><path d="M180 128 H245 l-8 -6 m8 6 l-8 6"/><path d="M400 128 H465 l-8 -6 m8 6 l-8 6"/><path d="M620 128 H685 l-8 -6 m8 6 l-8 6"/></g>
+</g>
+<text x="450" y="215" font-family="Arial" font-size="14" text-anchor="middle" fill="#475569">Higher-value or exception claims may require senior approval</text>
+</svg>
